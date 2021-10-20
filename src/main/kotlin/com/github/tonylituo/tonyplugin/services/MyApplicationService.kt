@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tonylituo.tonyplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tonylituo.tonyplugin.MyBundle
 
 class MyApplicationService {
 
